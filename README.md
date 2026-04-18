@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Nathan Junquer de Almeida Castro
+- Matricula:  915378
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print do console](public/img/printconsole.PNG)
 
 
 
